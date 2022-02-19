@@ -74,17 +74,7 @@ content:
           Core Banking Developer
         description: | # this will include new lines to allow paragraphs
             After 6 months of Trainning(Apr - Oct 2020), worked as full-time Core Banking Developer covering Common, Customer, AML, Factoriy modules.
-     content:
-      - layout: left
-        title: P&G (Procter & Gamble)
-        link: pg.com
-        # link_text: boringcompany.com
-        sub_title: IT Data Admin
-        caption: October 2019 - April 2020
-        quote: >
-          Core Banking Developer
-        description: | # this will include new lines to allow paragraphs
-            Core Banking Developing in Common, Customer, AML, Factoriy modules.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
